@@ -8,7 +8,8 @@
 ##### * Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado `r1`, `r2` y `h`.
 ##### * Revise como utilizar el valor de pi usando import math y math.pi
 
-```import math
+```
+import math
 def vol (r_1:float, r_2:float,h:float):
    return ((4/3) *math.pi * r_1**3) + ((1/3) * math.pi * r_2**2 * h)
 def are (r_1:float,r_2:float,h:float):
