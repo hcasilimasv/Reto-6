@@ -44,7 +44,7 @@ if __name__ == "__main__":
     b = float(input("Escribir el valor de la base de la rectangulo"))
     r = float(input("Escribir el valor del radio de los dos circulos"))
 area_t = are(a, b, r)
-print("El area total del la figura es " + str(are_t) + "")
+print("El area total del la figura es " + str(area_t) + "")
 per_t = per(a, b, r)
 print("El perimetro total del la figura es " + str(per_t) + "")
 ```
