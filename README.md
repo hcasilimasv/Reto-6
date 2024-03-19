@@ -8,8 +8,7 @@
 ##### * Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado `r1`, `r2` y `h`.
 ##### * Revise como utilizar el valor de pi usando import math y math.pi
 
-```
-import math
+```import math
 def vol (r_1:float, r_2:float,h:float):
    return ((4/3) *math.pi * r_1**3) + ((1/3) * math.pi * r_2**2 * h)
 def are (r_1:float,r_2:float,h:float):
@@ -21,8 +20,7 @@ if __name__ == "__main__":
    vol_t = vol(r_1,r_2,h)
    print("El volumen total del la esfera y el cono es " + str(vol_t) + "")
    are_t = are(r_1,r_2,h)
-   print("El area total del la esfera y el cono es " + str(are_t) + "")
-```
+   print("El area total del la esfera y el cono es " + str(are_t) + "")```
 
 
 ##### 2. Dado la figura de la imagen, desarrolle:
