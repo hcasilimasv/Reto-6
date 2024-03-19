@@ -20,7 +20,8 @@ if __name__ == "__main__":
    vol_t = vol(r_1,r_2,h)
    print("El volumen total del la esfera y el cono es " + str(vol_t) + "")
    are_t = are(r_1,r_2,h)
-   print("El area total del la esfera y el cono es " + str(are_t) + "")```
+   print("El area total del la esfera y el cono es " + str(are_t) + "")
+```
 
 
 ##### 2. Dado la figura de la imagen, desarrolle:
